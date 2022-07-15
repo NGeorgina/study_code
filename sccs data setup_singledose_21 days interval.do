@@ -1,7 +1,7 @@
 
 set more off 
 
-*participants with a single vaccinations 
+*participants with a single vaccination
 local num "one"
  use vac_safety\AIRD_cohort\covidvacWideFlareWide_airdEdited, clear
 
